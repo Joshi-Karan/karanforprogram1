@@ -2,7 +2,7 @@
   <b>Karan Joshi</b>
 </h1>
 
-Hey there! I'm Karan Joshi, a student currently living in Mumbai, India. I am on my learning stage and <img src="https://img.shields.io/badge/-Python-98b982?style=for-the-badge&logo=python&logoColor=98b982&labelColor=282828"> is my sword of choice.
+Hey there! I'm Karan Joshi, a student currently living in Mumbai, India. I am on my learning stage and <img src="https://img.shields.io/badge/-Python-98b982?style=for-the-badge&logo=python&logoColor=98b982&labelColor=282828" size = 40%> is my sword of choice.
 
 <br>
 
